@@ -75,6 +75,4 @@
 
 <br>
 
-Credit: [Rohit Luni](https://github.com/rohit4242)
-
-Last Edited on: 22/03/2023
+Credit: [Kuldeep Chanv](https://github.com/chanvkuljit)
