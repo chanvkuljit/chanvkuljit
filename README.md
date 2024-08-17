@@ -1,6 +1,6 @@
 <img src="./images/header.png" width="full" height="full">
 
-<h1 align="center"><b>Hi , I'm Rohit Luni </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Kuldeep Chanv </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 
@@ -13,8 +13,7 @@
 - A passionate Self-taught Full-Stack developer
 <!-- - Playing CTF's at spare time -->
 - Currently learning Web Development by Self
-- Personal website [link](https://github.com/rohit4242)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/rohit4242)
+- I’m currently open for an Intern or a new job opportunity, this is LinkedIn Profile ([https://github.com/rohit4242](https://www.linkedin.com/in/chanv-kuldeep-8167361b5/))
 
 <br><br>
 
