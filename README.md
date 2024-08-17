@@ -13,7 +13,7 @@
 - A passionate Self-taught Full-Stack developer
 <!-- - Playing CTF's at spare time -->
 - Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is LinkedIn Profile ([https://github.com/rohit4242](https://www.linkedin.com/in/chanv-kuldeep-8167361b5/))
+- I’m currently open for an Intern or a new job opportunity, this is LinkedIn Profile (https://www.linkedin.com/in/chanv-kuldeep-8167361b5/)
 
 <br><br>
 
